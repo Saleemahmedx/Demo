@@ -1,2 +1,3 @@
 # Demo
-This is first demo project on Github
+This is my first Git Repository.
+Author - Saleem Ahmed 
