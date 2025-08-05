@@ -1,4 +1,7 @@
 # Demo
 This is my first Git Repository.
 <br>
-Author - Saleem Ahmed 
+
+Author - Arhtur (France)
+<br>
+This is about git.
